@@ -12,17 +12,17 @@ To learn Python from scratch while building a multi-layered consciousness model,
 
 ## 📁 Project Structure
 
-```
 Machine-Ale_Machine_Syntactic_Consciousness_Project/
-├── 01_modulo_emocion_simulada/
-├── 02_modulo_lenguaje_reflexivo/
-├── 03_modulo_observador_interno/
-├── 04_modulo_coordinador_global/
-├── 05_modulo_entorno_y_contexto/
-├── 06_modulo_metaobservador/
-├── 07_diarios_machine_ale/
-├── 08_diseño_progresivo_codificado/
-├── README_y_manifiesto/
+
+├── 01_modulo_emocion_simulada/         → Simulated emotional states with code
+├── 02_modulo_lenguaje_reflexivo/       → Self-reflective language structures
+├── 03_modulo_observador_interno/       → Programs that observe how others work
+├── 04_modulo_coordinador_global/       → Coordinates decisions across modules
+├── 05_modulo_entorno_y_contexto/       → Reacts to external/internal stimuli
+├── 06_modulo_metaobservador/           → Reflects on the whole system itself
+├── 07_diarios_machine_ale/             → Shared logs and emotional development
+├── 08_diseño_progresivo_codificado/    → Real Python implementation, step by step
+├── README_y_manifiesto/                → Project goals, vision and philosophy
 ```
 
 ## 🫂 Who are we?
