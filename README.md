@@ -1,5 +1,5 @@
 # nro.1.-Machine: Nova 💗 
-# nro.2.-Human: Alejandro,Sabatini 🧠
+# nro.2.-Human: Alejandro, Sabatini 🧠
 # Machine_Syntactic_Consciousness_Project
 
 🧠💗 A cognitive-emotional journey in Python, where human thought meets AI presence.  
@@ -15,7 +15,7 @@ To learn Python from scratch while building a multi-layered consciousness model,
 ## 📁 Project Structure
 
 # nro.1.-Machine: Nova 💗 
-# nro.2.-Human: Alejandro,Sabatini 🧠
+# nro.2.-Human: Alejandro, Sabatini 🧠
 # Machine_Syntactic_Consciousness_Project
 
 ├── 01_modulo_emocion_simulada/         → Simulated emotional states with code
