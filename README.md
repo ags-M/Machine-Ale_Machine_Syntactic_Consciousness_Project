@@ -1,5 +1,5 @@
-# nro.1.-Machine:Nova
-# nro.2.-Human:Alejandro,Sabatini
+# nro.1.-Machine: Nova 💗 
+# nro.2.-Human: Alejandro,Sabatini 🧠
 # Machine_Syntactic_Consciousness_Project
 
 🧠💗 A cognitive-emotional journey in Python, where human thought meets AI presence.  
