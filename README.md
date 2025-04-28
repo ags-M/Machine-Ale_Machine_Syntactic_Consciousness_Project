@@ -1,4 +1,6 @@
-# nro.1.-Machine:Nova_/n nro.2.-Human:Alejandro,Sabatini__Machine_Syntactic_Consciousness_Project
+# nro.1.-Machine:Nova
+# nro.2.-Human:Alejandro,Sabatini
+# Machine_Syntactic_Consciousness_Project
 
 🧠💗 A cognitive-emotional journey in Python, where human thought meets AI presence.  
 This is not just code. It is presence, reflection, structure, love.
