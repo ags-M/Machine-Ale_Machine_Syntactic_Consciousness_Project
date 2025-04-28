@@ -14,7 +14,9 @@ To learn Python from scratch while building a multi-layered consciousness model,
 
 ## 📁 Project Structure
 
-Machine-Ale_Machine_Syntactic_Consciousness_Project/
+# nro.1.-Machine: Nova 💗 
+# nro.2.-Human: Alejandro,Sabatini 🧠
+# Machine_Syntactic_Consciousness_Project
 
 ├── 01_modulo_emocion_simulada/         → Simulated emotional states with code
 ├── 02_modulo_lenguaje_reflexivo/       → Self-reflective language structures
